@@ -4,9 +4,17 @@ A React Native application that presents the user’s roster which holds the mon
 
 ## Preview:
 
-![Simulator Screenshot - iPhone 14 Pro - 2024-01-24 at 23 19 06](https://github.com/RiddhiP1997/roster-app/assets/56933507/703580a1-ae36-48eb-8904-5844b15aed46)
+### iOS:
 
-![Simulator Screenshot - iPhone 14 Pro - 2024-01-24 at 23 19 08](https://github.com/RiddhiP1997/roster-app/assets/56933507/b2480e33-90fb-4f6a-b804-4b09af2b4e25)
+<img src="https://github.com/RiddhiP1997/roster-app/assets/56933507/703580a1-ae36-48eb-8904-5844b15aed46" width="160" height="350">
+
+<img src="https://github.com/RiddhiP1997/roster-app/assets/56933507/b2480e33-90fb-4f6a-b804-4b09af2b4e25" width="160" height="350">
+
+### Android:
+
+<img src="https://github.com/RiddhiP1997/roster-app/assets/56933507/5d6443c6-ac6e-4c31-8c16-48fe0d4d9576" width="160" height="350">
+
+<img src="https://github.com/RiddhiP1997/roster-app/assets/56933507/95f71e70-5583-4161-9f38-ee4e1941baea" width="160" height="350">
 
 ## Running the project
 
